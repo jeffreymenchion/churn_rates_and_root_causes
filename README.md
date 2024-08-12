@@ -108,4 +108,5 @@ Improve regression model.  Train and test with more data.
 
 ##**References**
 
-
+Telecom Dataset Website:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
