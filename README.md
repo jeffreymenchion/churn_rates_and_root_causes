@@ -38,7 +38,25 @@ The results section includes:
 
 ##**Describing Data**
 
+The dataset used in this project includes:
+
+ - Customer who left within a month, a year, and two years.
+ - The services each customer signed up for:  phone, multiple lines, internet, online seurity, online backup, device protection, tech support, and streaming TV and movies. 
+ - Customer account information:  how long a person was a customer, contract payment method, paperless billing, monthly charges, and total charges. 
+ - Demographic info about customers:  gender, age range, and if they have partners and dependents.
+
 ##**Data Visualization**
+
+Figure 1 shows boxplots of the sensors data which shows the relations between the number of samples taken and outliers.
+
+<p align="center">
+    <img src="img/boxplot_of_the_sensors_darta.png"/>
+</p>
+
+<p align="center">
+    Figure 1.  Boxplot of the sensors data
+
+</p>
 
 ##**Future Directions**
 
