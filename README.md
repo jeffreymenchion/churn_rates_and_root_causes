@@ -47,16 +47,40 @@ The dataset used in this project includes:
 
 ##**Data Visualization**
 
-Figure 1 shows boxplots of the sensors data which shows the relations between the number of samples taken and outliers.
+Figure 1 shows bar graph of distribution by customer contracts.
 
 <p align="center">
-    <img src="img/boxplot_of_the_sensors_darta.png"/>
+    <img src="img/distribution_by_customers_contracts.png"/>
 </p>
 
 <p align="center">
-    Figure 1.  Boxplot of the sensors data
+    Figure 1.  Bar graph of customer contracts
 
 </p>
+
+Figure 2 shows bar graph of distibution by tenure - churn, contracts-churn, and charges-churn.
+
+<p align="center">
+    <img src="img/distribution_by_tenure_contracts_charges_churn.png"/>
+</p>
+
+<p align="center">
+    Figure 2.  Bar graph of tenure - churn, contracts-churn, and charges-churn
+
+</p>
+
+Figure 3 shows correlation heatmap.
+
+<p align="center">
+    <img src="img/correlation_heatmap.png"/>
+</p>
+
+<p align="center">
+    Figure 2.  Correlation Heatmap
+
+</p>
+
+
 
 ##**Future Directions**
 
