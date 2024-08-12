@@ -43,4 +43,4 @@ model.fit(X_train, y_train)
 #Save model
 joblib.dump(model 'logistic_model.pk1')
 
-print('Model training complete and saved as 'logistic_model.pk1'')
+print("Model training complete and saved as 'logistic_model.pk1'")
