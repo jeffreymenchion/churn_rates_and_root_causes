@@ -110,3 +110,5 @@ Improve regression model.  Train and test with more data.
 
 Telecom Dataset Website:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+Github Location:  https://github.com/jeffreymenchion/churn_rates_and_root_causes
